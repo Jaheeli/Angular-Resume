@@ -1,0 +1,11 @@
+h2 {
+    border-bottom: 2px solid black;
+}
+
+.bold {
+    font-size: 18px;
+    font-weight: bolder;
+}
+li {
+    list-style-type: none;
+}

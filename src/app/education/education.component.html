@@ -1,0 +1,8 @@
+<h2><em>Education</em></h2>
+<ul>
+    <li *ngFor="let education of education">
+        <p>
+            {{education.id +1}}. <em class="bold">College</em>: {{education.name}}, <em class="bold">Degree</em>: {{education.degree}}, <em class="bold">Degree type</em>: {{education.degreeType}}, <em class="bold">Dates of Attendance</em>: {{education.yearAttending}}, <em class="bold">Graduation</em>: {{education.graduation}}
+        </p>
+    </li>
+</ul>
