@@ -12,7 +12,6 @@ import { EducationComponent } from './education/education.component';
     AppComponent,
     SkillsComponent,
     AboutMeComponent,
-    CertificatesComponent,
     EducationComponent
   ],
   imports: [
