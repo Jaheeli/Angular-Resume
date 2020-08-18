@@ -5,7 +5,7 @@
 #header {
     display: flex;
     justify-content: space-evenly;
-    height: 200px;
+    height: 100px;
     width: 100%;
     text-align: center;
 }

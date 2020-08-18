@@ -17,14 +17,6 @@ export class ServiceService {
       },
       {
         id: 1,
-        name: "Northwest Missouri State University",
-        degree: "Nano-scale Science, Chemistry Emphasis",
-        degreeType: "B.A.S",
-        yearAttending: "2013-2015",
-        graduation: "N/A"
-      },
-      {
-        id: 2,
         name: "South Central Career Center",
         degree: "Computer Maintenance and Repair",
         degreeType: "Certificate",
@@ -32,7 +24,7 @@ export class ServiceService {
         graduation: "N/A, 2nd year of program was cancelled"
       },
       {
-        id: 3,
+        id: 2,
         name: "Koshkonong High School",
         degree: "High School General Studies",
         degreeType: "H.S. Diploma",
