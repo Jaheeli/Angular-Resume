@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "resume-94a5a": {
+      "hosting": {
+        "myNewApp": [
+          "resume-94a5a"
+        ]
+      }
+    }
+  }
+}

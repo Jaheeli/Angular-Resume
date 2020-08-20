@@ -3033,7 +3033,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Brand\Desktop\Side projects\Side Project 5, Resume\Resume\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\Brand\Desktop\Side projects\Side Project 5, Resume\Angular-Resume-in-Development\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
