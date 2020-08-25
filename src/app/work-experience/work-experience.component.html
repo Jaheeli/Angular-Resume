@@ -1,0 +1,11 @@
+<div class="container">
+    <h2><em>Work Experience</em></h2>
+    <ul>
+        <li *ngFor="let workExperience of workExperience">
+            <p>
+                {{ workExperience.id +1 }}. <strong>Job Title</strong>: {{ workExperience.title }}, <strong>Company</strong>: {{ workExperience.name }}, <strong>Date</strong>: {{ workExperience.date }},
+                <br> <strong>Description</strong>: {{ workExperience.jobServices }} 
+            </p>
+        </li> 
+    </ul>
+</div>

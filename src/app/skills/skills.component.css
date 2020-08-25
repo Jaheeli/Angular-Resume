@@ -8,8 +8,8 @@ svg {
     justify-content: space-evenly;
     flex-direction: row;
     flex-flow: row;
-    height: 50px;
-    width: 100vw;
+    padding: 10px;
+    width: 100%;
 }
 
 h2 {
