@@ -27,3 +27,10 @@ h2 {
     }
 }
 
+@media print {
+    .wrapper{
+        display: inline-flex;
+        padding: 10px;
+        
+    }
+}
