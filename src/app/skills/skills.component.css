@@ -17,13 +17,15 @@ h2 {
     padding-top: 10px;
 }
 
-@media screen and (min-width: 400px) and (max-width: 680px) {
+@media screen and (min-width: 300px) and (max-width: 680px) {
 .wrapper {
     display: block;
     height: auto;
     width: 100%;
-    
     }
+h2{
+    padding-top: 10px;
+}
 }
 
 @media print {
